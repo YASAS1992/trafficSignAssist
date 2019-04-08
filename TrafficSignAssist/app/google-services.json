@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "604153737384",
+    "firebase_url": "https://trafficsign-17025.firebaseio.com",
+    "project_id": "trafficsign-17025",
+    "storage_bucket": "trafficsign-17025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604153737384:android:763003242f864e9f",
+        "android_client_info": {
+          "package_name": "com.example.yasas.trafficsignassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604153737384-s0qp89nprck2fmghcktj472ekgfeo52p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yasas.trafficsignassist",
+            "certificate_hash": "8b28faf94f1744ce6384666449473c4a93f54456"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJZGP8hOmTKQgR1ItZy0wbCfW6orB52U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604153737384-ereq39iqupog12uvopt1antpa87go07u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
